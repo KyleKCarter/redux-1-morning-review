@@ -1,0 +1,19 @@
+.home_page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5vh;
+}
+
+.post {
+    border: 1px solid black;
+    width: 50%;
+    margin: 2.5vh 0 2.5vh;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 3px 3px 0px;
+}
+
+.post img{
+    width: 100%;
+}
